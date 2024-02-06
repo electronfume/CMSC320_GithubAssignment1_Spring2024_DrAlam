@@ -1,0 +1,3 @@
+Why are you interested in taking CMSC320? 
+
+I'm interested in taking CMSC320 to learn more about machine learning and fulfill a prereq for the machine learning track.
